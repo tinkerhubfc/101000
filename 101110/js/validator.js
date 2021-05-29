@@ -1,6 +1,6 @@
 
-const ANSWER_HASH = 'a94a8fe5ccb19ba61c4c0873d391e987982fbbd3';
-const SUBMISSION  = 'https://www.google.com';
+const ANSWER_HASH = '4742c9be9cd4ab5494605217582459faa05eef09';
+const SUBMISSION  = 'https://airtable.com/shrTnuxi1Y0WyLg76';
 const checkButton = document.querySelector('#check');
 const answerInput = document.querySelector('#answer');
 const message     = document.querySelector('#message');
